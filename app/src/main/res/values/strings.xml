@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amirtham Resort</string>
+
+    <!-- Login Screen -->
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+
+    <!-- Signup Screen -->
+    <string name="create_account">Create Account</string>
+    <string name="create_username">Create Username</string>
+    <string name="create_password">Create Password</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="browse_rooms">Browse Rooms</string>
+    <string name="food_service">Food Service</string>
+    <string name="medical_service">Medical Service</string>
+    <string name="notifications">Notifications</string>
+
+    <!-- Other screens -->
+    <string name="food_title">Food Menu</string>
+    <string name="medical_title">Medical Services</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="call_emergency">Call Emergency</string>
+
+    <!-- Floor options for Spinner -->
+    <string-array name="floor_options">
+        <item>Select Floor</item>
+        <item>Ground Floor</item>
+        <item>First Floor</item>
+        <item>Second Floor</item>
+        <item>Third Floor</item>
+    </string-array>
+
+</resources>
