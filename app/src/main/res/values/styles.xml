@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.AmirthamResort" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/turquoise</item>
+        <item name="colorPrimaryVariant">@color/deep_sea_blue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/coral</item>
+        <item name="colorSecondaryVariant">@color/gold</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/deep_sea_blue</item>
+    </style>
+
+</resources>
